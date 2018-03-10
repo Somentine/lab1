@@ -3,6 +3,7 @@
 'Course: NETD - 2202
 'Project: Lab1AverageUnitsShipped
 'Date: Feb 7, 2018
+'Uploaded to git: Mar 9, 2018
 'Description: A program to calculate the average amount of units shipped over a week using
 '             user inputted data and storing it in an array. This is an assignment that
 '             is designed to introduce us to the differences between c# and Visual Basic.
